@@ -15,4 +15,5 @@ This presentation was created as a group. We were assigned to present our findin
 - Vulnerabilities/Weaknesses
 - Analyze Alarms & Thresholds in Elasticsearch Watcher (Kibana)
 - Implement Hardening Methods
+
 The Offensive, Defensive and Network Analysis reports are my own work. 
