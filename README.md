@@ -11,7 +11,7 @@
 #
 Note: 
 
-This presentation was created as a group. We were assigned to present our findings as a team. We chose to cover:
+The Final Presentation was created as a group. We were assigned to present our findings as a team. We chose to cover:
 - Network Topology
 - Vulnerabilities/Weaknesses
 - Analyze Alarms & Thresholds in Elasticsearch Watcher (Kibana)
